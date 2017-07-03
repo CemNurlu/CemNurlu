@@ -224,8 +224,6 @@ function init() {
 	c.textAlign = "center";
 }
 
-console.log(racket)
-
 // Animation Loop
 function animate() {
 	if(ball.x - ball.radius <= 0) {
