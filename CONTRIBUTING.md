@@ -1,7 +1,7 @@
 Hello! I know this game is probably REAAALY simple but, hey, who knows what creativity will bring?
 
 
-    Since this project is not complex, i invite you all people who want to contribute to an open source project but can't seem to find one for you. Maybe we will make the project into something interesting.
+   Since this project is not complex, i invite you all people who want to contribute to an open source project but can't seem to find one for you. Maybe we will make the project into something interesting.
 
 #Possible Features that you can add:
 
